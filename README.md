@@ -9,6 +9,10 @@ An animated Lovelace card for a rainwater tank (cistern). It shows an undergroun
 
 <p align="center"><img src="images/preview-en.png" alt="Rainwater Tank Card preview" width="420"></p>
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/4461e417-1e81-4789-b8db-43d227baf53a" width="420" controls muted loop playsinline></video>
+</div>
+
 ## Features
 
 - Animated scene: the water level follows your sensor, rain animates when the weather or a rain sensor says it is raining, and the pump animates while it runs.
