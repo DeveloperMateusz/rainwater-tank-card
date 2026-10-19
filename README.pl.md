@@ -159,4 +159,4 @@ Każdy wpis przyjmuje `entity` (wymagane, żeby kafelek się pojawił) oraz opcj
 
 ## Licencja
 
-[MIT](LICENSE). Dołączona czcionka [Manrope](https://github.com/sharanda/manrope) jest na licencji [SIL Open Font License 1.1](LICENSE-FONT).
+[MIT](LICENSE). Dołączona czcionka [Manrope](https://github.com/sharanda/manrope) jest na licencji [SIL Open Font License 1.1](licenses/Manrope-OFL.txt).
