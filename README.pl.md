@@ -9,6 +9,10 @@ Animowana karta Lovelace dla zbiornika na deszczówkę. Pokazuje przekrój zbior
 
 <p align="center"><img src="images/preview-pl.png" alt="Podgląd Rainwater Tank Card" width="420"></p>
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/4461e417-1e81-4789-b8db-43d227baf53a" width="420" controls muted loop playsinline></video>
+</div>
+
 ## Możliwości
 
 - Animowana scena: poziom wody podąża za czujnikiem, deszcz pojawia się, gdy pogoda lub czujnik deszczu wskazują opady, a pompa animuje się podczas pracy.
