@@ -7,7 +7,7 @@
 
 An animated Lovelace card for a rainwater tank. It shows an underground tank scene with live water level, rain running off the roof, a working pump, the volume in litres or gallons, a zoomable level chart and optional sensor details. Everything is visible at once in a single card, with no pop-up.
 
-<p align="center"><img src="images/preview-en.png" alt="Rainwater Tank Card preview" width="420"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/DeveloperMateusz/rainwater-tank-card/main/images/preview-en.png" alt="Rainwater Tank Card preview" width="420"></p>
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/4461e417-1e81-4789-b8db-43d227baf53a" width="420" controls muted loop playsinline></video>
