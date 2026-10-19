@@ -5,7 +5,7 @@
 
 🇵🇱 [Polska wersja opisu](README.pl.md)
 
-An animated Lovelace card for a rainwater tank (cistern). It shows an underground tank scene with live water level, rain running off the roof, a working pump, the volume in litres or gallons, a zoomable level chart and optional sensor details. Everything is visible at once in a single card, with no pop-up.
+An animated Lovelace card for a rainwater tank. It shows an underground tank scene with live water level, rain running off the roof, a working pump, the volume in litres or gallons, a zoomable level chart and optional sensor details. Everything is visible at once in a single card, with no pop-up.
 
 <p align="center"><img src="images/preview-en.png" alt="Rainwater Tank Card preview" width="420"></p>
 
