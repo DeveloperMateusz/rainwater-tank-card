@@ -7,7 +7,7 @@
 
 Animowana karta Lovelace dla zbiornika na deszczówkę. Pokazuje przekrój zbiornika z aktualnym poziomem wody, deszcz spływający z dachu, pracującą pompę, objętość w litrach lub galonach, wykres poziomu z zoomem i opcjonalne dane z czujnika. Wszystko jest widoczne od razu w jednej karcie, bez wyskakującego okna.
 
-<p align="center"><img src="images/preview-pl.png" alt="Podgląd Rainwater Tank Card" width="420"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/DeveloperMateusz/rainwater-tank-card/main/images/preview-pl.png" alt="Podgląd Rainwater Tank Card" width="420"></p>
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/4461e417-1e81-4789-b8db-43d227baf53a" width="420" controls muted loop playsinline></video>
