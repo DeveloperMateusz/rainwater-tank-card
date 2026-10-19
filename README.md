@@ -160,4 +160,4 @@ Each entry takes `entity` (required to show it), plus optional `name` and `icon`
 
 ## License
 
-[MIT](LICENSE). The bundled [Manrope](https://github.com/sharanda/manrope) font is licensed under the [SIL Open Font License 1.1](LICENSE-FONT).
+[MIT](LICENSE). The bundled [Manrope](https://github.com/sharanda/manrope) font is licensed under the [SIL Open Font License 1.1](licenses/Manrope-OFL.txt).
