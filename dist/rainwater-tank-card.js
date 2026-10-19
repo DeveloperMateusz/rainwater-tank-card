@@ -869,7 +869,7 @@ class RainwaterTankCard extends HTMLElement {
         let b;
         if (['high', 'middle', 'low'].includes(st)) b = { txt: t.bat[st], v: { high: 100, middle: 50, low: 15 }[st], low: st !== 'high' };
         else { const v = this._n(r.id); b = v == null ? { txt: '—', v: 0, low: false } : { txt: Math.round(v) + '%', v, low: v < 20 }; }
-        txt = b.txt; bad = b.low; sub = this._lc(r.id);
+        txt = b.txt; bad = b.low; 
         if (!r.icon) icon = b.v > 60 ? 'mdi:battery-high' : b.v > 25 ? 'mdi:battery-medium' : 'mdi:battery-low';
       } else if (ok) {   // timestamps: relative for past readings, absolute for the forecast
         const d = new Date(st);
